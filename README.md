@@ -10,3 +10,4 @@
 5.app.py
 
 
+097964285045.dkr.ecr.ap-southeast-2.amazonaws.com/waste
